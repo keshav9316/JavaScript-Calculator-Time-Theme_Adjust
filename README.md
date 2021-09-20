@@ -1,2 +1,2 @@
 # JavaScript-Calculator-Time-Theme_Adjust
- This is a vanilla javascript calculator with A.I recognition of themes switching to 3 variants according to the day time.
+ This is a vanilla javascript calculator with recognition of themes switching to variants according to the day time.
